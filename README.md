@@ -8,4 +8,4 @@ Unfortunately, with this change, the application loses the ability to define a w
 
 Demonstration:
 
-![demonstration](demonstration.png)
+![demonstration](demonstration.png =300x)
