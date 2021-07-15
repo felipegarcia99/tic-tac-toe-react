@@ -8,5 +8,5 @@ Unfortunately, with this change, the application loses the ability to define a w
 
 Demonstration:
 
-![demonstration](demonstration.png =300x)
+![demonstration](demonstration.png | width=300)
 <img src="demonstration.png" alt="demonstration" width="300"/>
